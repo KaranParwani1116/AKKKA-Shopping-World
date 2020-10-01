@@ -7,7 +7,7 @@
 #include <algorithm>
 #define V 9
 using namespace std;
-
+//comment
 int price=0;
 vector<string>v1;
 vector<int>v3,city;
